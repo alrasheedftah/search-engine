@@ -1,0 +1,17 @@
+{
+    "name": "ana/search-engine",
+    "description": "just for task in sunday",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alrasheed fathalrahman",
+            "email": "alrasheedrasta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ana\\searchEngine": "src/"
+        }
+    },    
+    "require": {}
+}
